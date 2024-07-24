@@ -19,23 +19,23 @@
 ###
 <h3 align="left">Back-End Tech</h3>
 
-[![back-end](https://skillicons.dev/icons?i=java,spring,postman,mysql,postgres,mongodb&perline=3)](https://skillicons.dev)
+[![back-end](https://skillicons.dev/icons?i=java,spring,postman,mysql,postgres,mongodb&perline=10)](https://skillicons.dev)
 
 ###
 <h3 align="left">Front-End Tech</h3>
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,javascript,figma&perline=3)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=html,css,javascript,figma&perline=10)](https://skillicons.dev)
 
 ###
 
 <h3 align="left">Cloud</h3>
 
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,&perline=3)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,&perline=10)](https://skillicons.dev)
 
 ###
 <h3 align="left">Others</h3>
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,&perline=3)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,&perline=10)](https://skillicons.dev)
 
 ###
 

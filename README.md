@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">-💻Software Developer<br>-🎓 Studying in Systems Analysis and Development at @ [UniFecaf](https://www.unifecaf.com.br/)<br>- 🌐 Passionate about web development<br>- 💡 Love a good challenge</p>
+- 💻Software Developer
+- 🎓 Studying in Systems Analysis and Development at @ [UniFecaf](https://www.unifecaf.com.br/)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
 ###
 

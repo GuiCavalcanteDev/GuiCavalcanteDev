@@ -4,7 +4,7 @@
 
 ###
 
-- 💻Software Developer
+- 💻FullStack Developer
 - 🎓 Studying in Systems Analysis and Development at @ [UniFecaf](https://www.unifecaf.com.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge##
